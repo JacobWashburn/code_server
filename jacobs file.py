@@ -10,3 +10,4 @@ print(name)
 #then "cd /public/www/pythonstuff/code_server/ "
 #now you can run git pull
 #to exit from the server type "exit"
+# Nathan was here
